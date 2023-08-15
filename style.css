@@ -26,6 +26,7 @@ body{
     /* align-items: center; */
     margin: 250px auto;
     border-radius: 10px;
+    box-shadow: 5px 5px 35px 5px;
 }
 .container-head{
     display: flex;
